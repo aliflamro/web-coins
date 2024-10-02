@@ -57,7 +57,7 @@ $codes = htmlspecialchars(md5(rand(0, 9999999)."".date('H:i, d-m-y')));
                     <input type="text" name="codep" id="" class="form-control p-3 w-100 bg-dark border-bottom-s" placeholder="Your Codes" autocomplete="off" />
                 </div>
                 <div class="col-12 mb-3 col-md-4 px-1">
-                    <div class="g-recaptcha" data-sitekey="6LeAutgpAAAAAG6x1UeIFJwMBRr7cxqJxjP35yZH"></div>
+                    <div class="g-recaptcha" data-sitekey="SITE-KEY"></div>
                 </div>
                 <div class="col-12 col-md-4">
                     <button type="submit" name="" id="" class="btn btn-success p-3 w-100 border-bottom-s">Continue</button>
