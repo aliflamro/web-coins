@@ -17,7 +17,7 @@ git clone https://github.com/aliflamro/web-coins.git
 ```
 git clone
 ```
-### Chapcha Google
+### Chaptcha Google
 Your using codes in public function or class
 ```
 $ch = curl_init("https://www.google.com/recaptcha/api/siteverify");
@@ -29,6 +29,10 @@ $ch = curl_init("https://www.google.com/recaptcha/api/siteverify");
       curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
       $response = curl_exec($ch);
       $result = json_decode($response);
+```
+Your can change Tokenkey Secret with Tokenkey Chaptcha in Here
+```
+'secret' => 'TOKEN-KEY',
 ```
 Your Using codes in <head></head>
 ```
