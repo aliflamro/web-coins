@@ -60,8 +60,8 @@ $rows = mysqli_fetch_array($sss);
 
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'yunmefreecoins@gmail.com';
-        $mail->Password = 'ygdtyivkbkxvmhaf';
+        $mail->Username = 'example@gmail.com';
+        $mail->Password = '******';
         $mail->SMTPSecure = 'ssl';
         $mail->Port = 465;
 
