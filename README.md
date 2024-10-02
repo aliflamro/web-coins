@@ -11,7 +11,7 @@
 
 ### Git Clone
 ```
-https://github.com/aliflamro/web-coins.git
+git clone https://github.com/aliflamro/web-coins.git
 ```
 information: x.com/scroooling
 Buy Now Dashboard in Admin
