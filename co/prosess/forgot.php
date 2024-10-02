@@ -4,7 +4,7 @@ use PHPMailer\PHPMailer\Exception;
 require 'PHPMailer/src/Exception.php';
 require 'PHPMailer/src/PHPMailer.php';
 require 'PHPMailer/src/SMTP.php';
-define('BASEURL', 'http://www.yunme.biz.id/co/');
+define('BASEURL', 'http://localhost:8000/yunme.biz.id/co/');
 define('DB_HOST', 'sql207.hstn.me');
 define('DB_USER', 'mseet_33435779');
 define('DB_PASS', 'Aimerdeka12');
