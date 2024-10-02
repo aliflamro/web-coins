@@ -11,11 +11,11 @@
 
 ### Git Clone
 ```
-git clone https://github.com/aliflamro/web-coins.git
+$ git clone https://github.com/aliflamro/web-coins.git
 ```
 ### PHPMailer
 ```
-git clone
+$ git clone https://github.com/PHPMailer/PHPMailer.git
 ```
 ### Chaptcha Google
 Your using codes in public function or class
