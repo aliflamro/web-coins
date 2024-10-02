@@ -5,7 +5,7 @@ if (isset($_POST['submit'])) {
     $ch = curl_init("https://www.google.com/recaptcha/api/siteverify");
     curl_setopt($ch, CURLOPT_POST, true);
     curl_setopt($ch, CURLOPT_POSTFIELDS, [
-        'secret' => '6LeAutgpAAAAAKjP-ximhzXwTjr7uD1DaH7sNB5c',
+        'secret' => 'TOKEN-KEY',
         'response' => $_POST['g-recaptcha-response'],
     ]);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
