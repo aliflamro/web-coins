@@ -151,7 +151,7 @@
                     <span style="font-size:12px;"><i class="fa fa-exclamation-circle"></i> Payment Method Dana & Paypal is Maintance.</span>
                 </div>
                 <div class="col-12 mb-3 col-md-4 px-1">
-                    <div class="g-recaptcha" data-sitekey="6LeAutgpAAAAAG6x1UeIFJwMBRr7cxqJxjP35yZH"></div>
+                    <div class="g-recaptcha" data-sitekey="SITE-KEY"></div>
                 </div>
                 <div class="form-group my-3">
                     <button type="submit" name="sending-data" class="btn btn-success">Save</button>
