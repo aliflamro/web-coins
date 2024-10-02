@@ -34,11 +34,11 @@ Your can change Tokenkey Secret with Tokenkey Chaptcha in Here
 ```
 'secret' => 'TOKEN-KEY',
 ```
-Your Using codes in <head></head>
+Your Using codes in head
 ```
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 ```
-And Your Using Codes in <form> code </form>
+And Your Using Codes in form
 ```
 <div class="g-recaptcha" data-sitekey="Site-Key"></div>
 ```
