@@ -1,0 +1,3 @@
+
+ErrorDocument 404 http://www.yunme.biz.id/co/
+ErrorDocument 403 http://www.yunme.biz.id/co/
