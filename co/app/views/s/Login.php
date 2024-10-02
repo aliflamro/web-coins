@@ -54,7 +54,7 @@
                     <input type="password" name="passw" id="" class="form-control p-3 w-100 bg-dark border-bottom-s" placeholder="Password" autocomplete="off" />
                 </div>
                 <div class="col-12 mb-3 col-md-4 px-1">
-                    <div class="g-recaptcha" data-sitekey="6LeAutgpAAAAAG6x1UeIFJwMBRr7cxqJxjP35yZH"></div>
+                    <div class="g-recaptcha" data-sitekey="SITE-KEY"></div>
                 </div>
                 <div class="col-12 col-md-4">
                     <input type="submit" value="Continue" class="btn btn-success p-3 w-100 border-bottom-s">
