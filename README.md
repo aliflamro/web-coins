@@ -13,6 +13,31 @@
 ```
 git clone https://github.com/aliflamro/web-coins.git
 ```
-information: x.com/scroooling
-Buy Now Dashboard in Admin
-© 2024 - 2025 Copyrights
+### PHPMailer
+```
+git clone
+```
+### Chapcha Google
+Your using codes in public function or class
+```
+$ch = curl_init("https://www.google.com/recaptcha/api/siteverify");
+      curl_setopt($ch, CURLOPT_POST, true);
+      curl_setopt($ch, CURLOPT_POSTFIELDS, [
+            'secret' => 'TOKEN-KEY',
+            'response' => $_POST['g-recaptcha-response'],
+      ]);
+      curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+      $response = curl_exec($ch);
+      $result = json_decode($response);
+```
+Your Using codes in <head></head>
+```
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+```
+And Your Using Codes in <form> code </form>
+```
+<div class="g-recaptcha" data-sitekey="Site-Key"></div>
+```
+### Information
+information: [x.com/scroooling](x.com/scroooling)
+### © 2024 - 2025 Copyrights
